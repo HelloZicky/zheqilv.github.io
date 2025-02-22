@@ -1,4 +1,4 @@
-# Full Publication List
+# 📝 Full Publication List
 
 `*` denotes co-first authors, $\dagger$ denotes corresponding author
 
