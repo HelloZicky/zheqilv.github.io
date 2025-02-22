@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Zheqi Lv"
 #description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Homepage"
 #repository               : "RayeRen/acad-homepage.github.io"
 repository               : "https://github.com/HelloZicky/zheqilv.github.io"
 google_scholar_stats_use_cdn : true
