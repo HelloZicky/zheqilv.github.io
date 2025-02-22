@@ -12,9 +12,9 @@ I am about to receive my PhD in June 2025 from the School of Computer Science an
 [//]: # (- TranSpeech, and AV-TranSpeech: Multimodal Translation)
 
 My main research areas are:
-	(Multimodal) Large Language Models, including self-reflection, quantization, applications, etc.
-	Device-Cloud/Large-Small Model Collaborative Learning.
-	Information Retrieval/Recommendation.
+- (Multimodal) Large Language Models, including self-reflection, quantization, applications, etc.
+- Device-Cloud/Large-Small Model Collaborative Learning.
+- Information Retrieval/Recommendation.
 
 [//]: # (In 2024, I lead or participate in the following research topics:)
 
