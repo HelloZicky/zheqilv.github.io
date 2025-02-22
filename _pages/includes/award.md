@@ -5,8 +5,8 @@
 - AAAI2025 Student Scholarship
 - MM2024 Student Travel Grant
 - Outstanding Graduate of Zhejiang University
-- Outstanding Achievement Award of Zhejiang Province 2023\|2024
-- First Prize of Zhejiang University Outstanding Achievement Award 2023\|2024
+- Outstanding Achievement Award of Zhejiang Province 2023`|`2024
+- First Prize of Zhejiang University Outstanding Achievement Award 2023`|`2024
 - Outstanding Postgraduate of Zhejiang University
 - Outstanding Student Cadres of Zhejiang University
 - Second Prize in National Mathematical Contest in Modeling
@@ -39,9 +39,9 @@
 - SIGIR The 1𝑠𝑡 NIP@IR Workshop: Publicity Chair
 - Conference Meta-Reviewer: MM-Asia 2024
 - Journal Reviewer: ACM Transactions on Information Systems (TOIS), Information Processing and Management (IPM)
-- Conference Reviewer: NIPS 2023\|2024, ICLR 2024\|2025, SIGKDD 2024\|2025, ICML 2024\|2025, CVPR2025, ACL 2024\|2025, EMNLP 2023\|2024, AAAI 2025, AISTATS 2025, ARR
+- Conference Reviewer: NIPS 2023`|`2024, ICLR 2024`|`2025, SIGKDD 2024`|`2025, ICML 2024`|`2025, CVPR2025, ACL 2024`|`2025, EMNLP 2023`|`2024, AAAI 2025, AISTATS 2025, ARR
 - Journal Sub-reviewer: IEEE Transactions on Big Data
-- Conference Sub-reviewer: WWW 2024\|2025, MM 2023\|2024, AAAI 2024, ECAI 2024, SDM 2024, IJCAI 2023, WSDM 2022, KDD 2021, SIGIR 2021
+- Conference Sub-reviewer: WWW 2024`|`2025, MM 2023`|`2024, AAAI 2024, ECAI 2024, SDM 2024, IJCAI 2023, WSDM 2022, KDD 2021, SIGIR 2021
 
 [//]: # (- Conference Reviewer/Program Committee: ICML 2022, ACM-MM 2022, NeurIPS 2022, ARR 2022, ICML 2023, ARR 2023, ACL 2023, EMNLP 2023, ACM-MM 2023, NeurIPS 2023, ICLR 2023, ICML 2023, Neuralcomputing, IJCAI 2024, ACM-MM 2024, ACL 2024, TIP)
 [//]: # (- Assist to Review: KDD 2022, AAAI 2022, EMNLP 2022, PRCV 2021, TMM)

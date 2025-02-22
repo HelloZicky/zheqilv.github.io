@@ -104,7 +104,7 @@
 # Full Publication List
 
 [//]: # (* denotes co-first authors, # denotes co-supervised)
-* denotes co-first authors, &dagger denotes corresponding author
+* denotes co-first authors, $\dagger$ denotes corresponding author
 
 Here’s the corrected version with **Zheqi Lv** bolded and papers categorized by their respective years:
 
@@ -119,13 +119,13 @@ Here’s the corrected version with **Zheqi Lv** bolded and papers categorized b
 
 # 2024
 
-- [Backpropagation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration]() Wei Ji*, Li Li*, **Zheqi Lv**&dagger, Wenqiao Zhang, Mengze Li, Zhen Wan, Wenqiang Lei, Roger Zimmermann. **TOMM, 2024.**
+- [Backpropagation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration]() Wei Ji*, Li Li*, **Zheqi Lv**$\dagger$, Wenqiao Zhang, Mengze Li, Zhen Wan, Wenqiang Lei, Roger Zimmermann. **TOMM, 2024.**
 - [FedMcon: An Adaptive Aggregation Method for Federated Learning via Meta Controller]() Tao Shen, **Zheqi Lv**, Kun Kuang, Chao Wu, Fei Wu. **Frontiers of Information Technology & Electronic Engineering, 2024.**
 - [An Adaptive Aggregation Method for Federated Learning via Meta Controller]() Tao Shen, Zexi Li, Ziyu Zhao, Didi Zhu, **Zheqi Lv**, Shengyu Zhang, Kun Kuang, Fei Wu. **MM Asia Workshop, 2024.**
 - [Semantic Codebook Learning for Dynamic Recommendation Models]() **Zheqi Lv**, Shaoxuan He, Tianyu Zhan, Shengyu Zhang, Wenqiao Zhang, Jingyuan Chen, Zhou Zhao, Fei Wu. **MM, 2024.**
 - [De-fine: Decomposing and Refining Visual Programs with Auto-Feedback]() Minghe Gao, Juncheng Li, Hao Fei, Liang Pang, Wei Ji, Guoming Wang, **Zheqi Lv**, Wenqiao Zhang, Siliang Tang, Yueting Zhuang. **MM, 2024.**
 - [DIET: Customized Slimming for Incompatible Networks in Sequential Recommendation]() Kairui Fu, Shengyu Zhang, **Zheqi Lv**, Jingyuan Chen, Jiwei Li. **KDD, 2024.**
-- [Revisiting the Domain Shift and Sample Uncertainty in Multi-source Active Domain Transfer]() Wenqiao Zhang*, **Zheqi Lv**&dagger. **CVPR, 2024.**
+- [Revisiting the Domain Shift and Sample Uncertainty in Multi-source Active Domain Transfer]() Wenqiao Zhang*, **Zheqi Lv**$\dagger$. **CVPR, 2024.**
 - [Intelligent Model Update Strategy for Sequential Recommendation]() **Zheqi Lv**, Wenqiao Zhang, Zhengyu Chen, Shengyu Zhang, Kun Kuang. **WWW, 2024.**
 - [AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation]() Zihao Tang, **Zheqi Lv**, Shengyu Zhang, Yifan Zhou, Xinyu Duan, Fei Wu, Kun Kuang. **ICLR, 2024.**
 - [Learning to Reweight for Generalizable Graph Neural Network]() Zhengyu Chen, Teng Xiao, Kun Kuang, **Zheqi Lv**, Min Zhang, Jinluan Yang, Chengqiang Lu, Hongxia Yang, Fei Wu. **AAAI, 2024.**
