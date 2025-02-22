@@ -35,7 +35,7 @@ My main research areas are:
 </style>
 
 [//]: # (2024.01~)
-Recent 3 years,
+[//]: # (Recent 3 years,)
 <div class="scrollable">
   <ul>
     <li><strong>2025.01</strong>: 1 paper are selected to AAAI 2025 oral presentation </li>
