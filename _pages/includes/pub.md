@@ -320,4 +320,4 @@ Here’s the corrected version with **Zheqi Lv** bolded and papers categorized b
 
 [//]: # ()
 [//]: # (- [SingGAN: Generative Adversarial NetWork For High-Fidelity Singing Voice Generation.]&#40;https://arxiv.org/abs/2110.07468&#41; **Rongjie Huang**, Chenye Cui, Feiyang Chen, Yi Ren, Jinglin Liu, and Zhou Zhao. **ACM MM, 2022. Lisbon, Portugal** )
-| [**Project**](https://singgan.github.io/) 
+[//]: # (| [**Project**]&#40;https://singgan.github.io/&#41; )
