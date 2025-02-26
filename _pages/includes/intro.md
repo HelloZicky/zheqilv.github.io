@@ -38,62 +38,22 @@ My main research areas are:
 [//]: # (Recent 3 years,)
 <div class="scrollable">
   <ul>
-    <li><strong>2025.01</strong>: 1 paper are selected to AAAI 2025 oral presentation </li>
-    <li><strong>2025.01</strong>: 1 paper are accepted by WWW 2025 </li>
-    <li><strong>2024.12</strong>: 1 paper are accepted by AAAI 2025 (Main) </li>
+    <li><strong>2025.01</strong>: 1 paper is selected for AAAI 2025 oral presentation </li>
+    <li><strong>2025.01</strong>: 1 paper is accepted by WWW 2025 (Research Track) </li>
+    <li><strong>2024.12</strong>: 2 paper is accepted by AAAI 2025 (1 Main, 1 Student abstract) </li>
     <li><strong>2024.11</strong>: 1 paper is accepted by TOMM 2025 </li>
     <li><strong>2024.11</strong>: 2 papers are accepted by KDD 2025 (Research Track) </li>
+    <li><strong>2024.07</strong>: 1 paper is selected for ACM MM 2024 oral presentation </li>
     <li><strong>2024.07</strong>: 2 papers are accepted by ACM MM 2024  </li>
-    <li><strong>2024.05</strong>: 1 paper are accepted by KDD 2024  </li>
-    <li><strong>2024.02</strong>: 1 paper are accepted by CVPR 2024  </li>
-    <li><strong>2024.02</strong>: 1 paper are accepted by ICLR 2024  </li>
-    <li><strong>2024.01</strong>: 1 paper are selected to WWW 2024 oral presentation </li>
-    <li><strong>2024.01</strong>: 1 paper are accepted by WWW 2024  </li>
-    <li><strong>2023.12</strong>: 1 paper are accepted by AAAI 2023  </li>
-    <li><strong>2023.09</strong>: 1 paper are accepted by EMNLP 2023  </li>
-    <li><strong>2023.07</strong>: 1 paper are accepted by CICAI 2023  </li>
-    <li><strong>2023.04</strong>: 1 paper are accepted by FITEE 2023  </li>
-    <li><strong>2023.01</strong>: 1 paper are accepted by WWW 2023  </li>
+    <li><strong>2024.05</strong>: 1 paper is accepted by KDD 2024 (Research Track) </li>
+    <li><strong>2024.02</strong>: 1 paper is accepted by CVPR 2024  </li>
+    <li><strong>2024.02</strong>: 1 paper is accepted by ICLR 2024  </li>
+    <li><strong>2024.01</strong>: 1 paper is selected for WWW 2024 oral presentation </li>
+    <li><strong>2024.01</strong>: 1 paper is accepted by WWW 2024 (Research Track)  </li>
+    <li><strong>2023.12</strong>: 1 paper is accepted by AAAI 2023 (Main)  </li>
+    <li><strong>2023.09</strong>: 1 paper is accepted by EMNLP 2023  </li>
+    <li><strong>2023.07</strong>: 1 paper is accepted by CICAI 2023  </li>
+    <li><strong>2023.04</strong>: 1 paper is accepted by FITEE 2023  </li>
+    <li><strong>2023.01</strong>: 1 paper is accepted by WWW 2023 (Research Track)  </li>
   </ul>
 </div>
-
-[//]: # (<div class="scrollable">)
-
-[//]: # (  <ul>)
-
-[//]: # (    <li><strong>2024.05</strong>: 6 papers are accepted by ACL 2024! &#40;main conference and findings&#41;! Thanks to my co-authors! </li>)
-
-[//]: # (    <li><strong>2024.05</strong>: 3 papers are accepted by ICML 2024!</li>)
-
-[//]: # (    <li><strong>2024.03</strong>: 1 paper is accepted by NAACL 2024 main conference!</li>)
-
-[//]: # (    <li><strong>2024.01</strong>: 1 paper is accepted by ICLR 2024!</li>)
-
-[//]: # (    <li><strong>2023.11</strong>: 2 papers are accepted by AAAI 2024 main / AAAI 2024 demo!</li>)
-
-[//]: # (    <li><strong>2023.10</strong>: <font color="red"> I am awarded ByteDance Scholar Fellowship, and Chu Kochen Presidential Scholarship! </font></li>)
-
-[//]: # (    <li><strong>2023.10</strong>: <a href="https://twitter.com/_akhaliq/status/1710112638422642732">UniAudio</a> released!</li>)
-
-[//]: # (    <li><strong>2023.09</strong>: One paper is accepted by EMNLP 2023!</li>)
-
-[//]: # (    <li><strong>2023.07</strong>: One paper is accepted by ACM-MM 2023! </li>)
-
-[//]: # (    <li><strong>2023.06</strong>: One paper is accepted by ICCV 2023! </li>)
-
-[//]: # (    <li><strong>2023.05</strong>: 8 papers are accepted by ACL 2023 &#40;main conference and findings&#41;! Thanks to my co-authors! </li>)
-
-[//]: # (    <li><strong>2023.04</strong>:  <a href="https://github.com/AIGC-Audio/AudioGPT">AudioGPT</a> and <a href="https://github.com/yangdongchao/AcademiCodec">HiFi-Codec</a> released!  </li>)
-
-[//]: # (    <li><strong>2023.04</strong>: One papers is accepted by ICML 2023! </li>)
-
-[//]: # (    <li><strong>2023.02</strong>: Make-An-Audio released! Media coverage: <a href="https://mp.weixin.qq.com/s/fphIJ13RWRIgGNTwYO06bw">Heart of Machine</a>, <a href="https://zhuanlan.zhihu.com/p/605228032">ByteDance</a> and <a href="https://twitter.com/_akhaliq/status/1619589070329348096">Twitter</a> </li>)
-
-[//]: # (    <li><strong>2023.01</strong>: One papers is accepted by ICLR 2023! </li>)
-
-[//]: # (    <li><strong>2022.09</strong>: Two papers are accepted by NeurIPS 2022! </li>)
-
-[//]: # (  </ul>)
-
-[//]: # (</div>)
-
