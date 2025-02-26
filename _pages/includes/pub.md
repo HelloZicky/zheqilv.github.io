@@ -5,7 +5,7 @@
 # 2025
 
 - [Disentangled Knowledge Tracing for Alleviating Cognitive Bias]() Yiyun Zhou, **Zheqi Lv**, Shengyu Zhang, Jingyuan Chen. **WWW, 2025.**
-- [Optimize Incompatible Parameters through Knowledge Integration]() **Zheqi Lv**, KeMing Ye, Shengyu Zhang, Wenqiao Zhang, Wenjie Wang, Tat-Seng Chua, Fei Wu. **AAAI, 2025.**
+- [Optimize Incompatible Parameters through Compatibility-aware Knowledge Integration]() **Zheqi Lv**, Keming Ye, Zishu Wei, Qi Tian, Shengyu Zhang, Wenqiao Zhang, Wenjie Wang, Kun Kuang, Tat-Seng Chua, Fei Wu. **AAAI, 2025.**
 - [Preliminary evaluation of the Test-Time Training layers in recommendation system]() Tianyu Zhan, **Zheqi Lv**, Shengyu Zhang, Jiwei Li. **AAAI Student Abstract, 2025.**
 - [Collaborative Large Language Models and Sequential Recommendation Models for Device-Cloud Recommendation]() **Zheqi Lv**, Tianyu Zhan, Wenjie Wang, Xinyu Lin, Shengyu Zhang, Wenqiao Zhang, Jiwei Li, Kun Kuang, Fei Wu. **KDD, 2025.**
 - [Forward Once for All: Structural Parameterized Adaptation for Efficient Cloud-coordinated On-device Recommendation]() Kairui Fu, **Zheqi Lv**, Shengyu Zhang, Fan Wu, Kun Kuang. **KDD, 2025.**
@@ -14,7 +14,7 @@
 # 2024
 
 - [Backpropagation-Free Multi-modal On-Device Model Adaptation via Cloud-Device Collaboration]() Wei Ji *, Li Li *, **Zheqi Lv**$\dagger$, Wenqiao Zhang, Mengze Li, Zhen Wan, Wenqiang Lei, Roger Zimmermann. **TOMM, 2024.**
-- [FedMcon: An Adaptive Aggregation Method for Federated Learning via Meta Controller]() Tao Shen, **Zheqi Lv**, Kun Kuang, Chao Wu, Fei Wu. **Frontiers of Information Technology & Electronic Engineering, 2024.**
+- [FedMcon: An Adaptive Aggregation Method for Federated Learning via Meta Controller]() Tao Shen, Zexi Li, Ziyu Zhao, Didi Zhu, **Zheqi Lv**, Shengyu Zhang, Kun Kuang, Fei Wu. **Frontiers of Information Technology & Electronic Engineering, 2024.**
 - [An Adaptive Aggregation Method for Federated Learning via Meta Controller]() Tao Shen, Zexi Li, Ziyu Zhao, Didi Zhu, **Zheqi Lv**, Shengyu Zhang, Kun Kuang, Fei Wu. **MM Asia Workshop, 2024.**
 - [Semantic Codebook Learning for Dynamic Recommendation Models]() **Zheqi Lv**, Shaoxuan He, Tianyu Zhan, Shengyu Zhang, Wenqiao Zhang, Jingyuan Chen, Zhou Zhao, Fei Wu. **MM, 2024.**
 - [De-fine: Decomposing and Refining Visual Programs with Auto-Feedback]() Minghe Gao, Juncheng Li, Hao Fei, Liang Pang, Wei Ji, Guoming Wang, **Zheqi Lv**, Wenqiao Zhang, Siliang Tang, Yueting Zhuang. **MM, 2024.**
