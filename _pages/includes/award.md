@@ -1,4 +1,4 @@
-# Selected Honors Awarded
+<img width="432" height="60" alt="image" src="https://github.com/user-attachments/assets/9a54eaf1-e7f3-4819-a41c-8922ddc0ed00" /><img width="432" height="102" alt="image" src="https://github.com/user-attachments/assets/1b3adfcb-a6bd-419a-8cf3-6bdb6fc2418e" /># Selected Honors Awarded
 
 - AAAI2025 Oral Presentation (First author)
 - WWW2024 Oral Presentation (First author)
@@ -19,8 +19,7 @@
 - [SIGIR The 1𝑠𝑡 NIP@IR Workshop](https://hellozicky.github.io/nip-ir2025.github.io/): Publicity Chair
 - Conference Meta-Reviewer: MM-Asia 2024
 <br>
-- Journal Reviewer: ACM Transactions on Information Systems (TOIS), Information Processing and Management (IPM)
-- Conference Reviewer: NIPS 2023\|2024, ICLR 2024\|2025, SIGKDD 2024\|2025, ICML 2024\|2025, CVPR2025, ACL 2024\|2025, EMNLP 2023\|2024, AAAI 2025, AISTATS 2025, ARR
-<br>
+- Journal Reviewer: ACM Transactions on Information Systems (TOIS), SCIENCE CHINA Information Sciences, Information Processing and Management (IPM), ACM Transactions on Computing for Healthcare
+- Conference Reviewer: NeurIPS (2023-2025), ICLR (2024-2026), KDD (2024-2025), ICML (2024-2026), CVPR (2025-2026), ICCV (2025), ARR/ACL/EMNLP (2023-2026), MM (2025), AAAI (2024-2026), IJCAI (2024-2025)
 - Journal Sub-reviewer: IEEE Transactions on Big Data
 - Conference Sub-reviewer: WWW 2024\|2025, MM 2023\|2024, AAAI 2024, ECAI 2024, SDM 2024, IJCAI 2023, WSDM 2022, KDD 2021, SIGIR 2021
