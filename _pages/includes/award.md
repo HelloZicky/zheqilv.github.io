@@ -1,8 +1,8 @@
-💻 Internships
+💻 # Internships
 
 2021.12~2023.01                         Research Intern                         Alibaba Group | DAMO Academy | M6 / Tongyi Qianwen Group (Supervisor: Hongxia Yang, Chang Zhou)
 
-# Selected Honors Awarded
+🎖 # Selected Honors Awarded
 
 - AAAI2025 Oral Presentation (First author)
 - WWW2024 Oral Presentation (First author)
@@ -20,7 +20,7 @@
 - First Prize in Provincial Mathematical Contest in Modeling
 
 
-# Professional Services
+🎓 # Professional Services
             
 - [SIGIR The 1𝑠𝑡 NIP@IR Workshop](https://hellozicky.github.io/nip-ir2025.github.io/): Publicity Chair
 - Conference Meta-Reviewer: MM-Asia 2024
