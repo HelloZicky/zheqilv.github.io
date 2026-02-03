@@ -1,3 +1,7 @@
+💻 Internships
+
+2021.12~2023.01                         Research Intern                         Alibaba Group | DAMO Academy | M6 / Tongyi Qianwen Group (Supervisor: Hongxia Yang, Chang Zhou)
+
 # Selected Honors Awarded
 
 - AAAI2025 Oral Presentation (First author)
