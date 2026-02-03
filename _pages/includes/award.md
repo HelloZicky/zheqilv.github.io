@@ -5,6 +5,7 @@
 - MM2024 Oral Presentation
 - AAAI2025 Student Scholarship
 - MM2024 Student Travel Grant
+- Excellent Doctoral Dissertation of Zhejiang University
 - Outstanding Graduate of Zhejiang University
 - Outstanding Achievement Award of Zhejiang Province 2023\|2024
 - First Prize of Zhejiang University Outstanding Achievement Award 2023\|2024
