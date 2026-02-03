@@ -38,6 +38,12 @@ My main research areas are:
 [//]: # (Recent 3 years,)
 <div class="scrollable">
   <ul>
+    <li><strong>2026.01</strong>: 1 paper is accepted by ICASSP 2026 </li>
+    <li><strong>2026.01</strong>: 2 papers are accepted by WWW 2026 (Research Track) </li>
+    <li><strong>2025.12</strong>: 1 paper is accepted by JOD 2025 </li>
+    <li><strong>2025.07</strong>: 1 paper is acscepted by MM 2025 </li>
+    <li><strong>2025.05</strong>: 2 papers are accepted by KDD 2025 </li>
+    <li><strong>2025.04</strong>: 1 paper is accepted by IJCAI 2025 </li>
     <li><strong>2025.01</strong>: 1 paper is selected for AAAI 2025 oral presentation </li>
     <li><strong>2025.01</strong>: 1 paper is accepted by WWW 2025 (Research Track) </li>
     <li><strong>2024.12</strong>: 2 paper is accepted by AAAI 2025 (1 Main, 1 Student abstract) </li>
