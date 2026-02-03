@@ -5,8 +5,8 @@
 # 2026
 
 - [Enhancing post-training quantization via future activation awareness]() **Zheqi Lv**\*, Zhenxuan Fan\*, Qi Tian, Wenqiao Zhang, Yueting Zhuang. **ICASSP 2026.**
-- [ThinkRec: Thinking-based recommendation via LLM]() Qihang Yu, Kairui Fu, **Zheqi Lv**$\dagger$, Shengyu Zhang, Xinhui Wu, Chen Lin, Feng Wei, Bo Zheng, Fei Wu. **WWW 2026.**
-- [RASTP: Representation-Aware Semantic Token Pruning for Generative Recommendation with Semantic Identifiers]() Tianyu Zhan, Kairui Fu, **Zheqi Lv**$\dagger$, Shengyu Zhang. **WWW 2026.**
+- [ThinkRec: Thinking-based recommendation via LLM]() Qihang Yu, Kairui Fu, **Zheqi Lv**$^\dagger$, Shengyu Zhang, Xinhui Wu, Chen Lin, Feng Wei, Bo Zheng, Fei Wu. **WWW 2026.**
+- [RASTP: Representation-Aware Semantic Token Pruning for Generative Recommendation with Semantic Identifiers]() Tianyu Zhan, Kairui Fu, **Zheqi Lv**$^\dagger$, Shengyu Zhang. **WWW 2026.**
 
 # 2025
 
