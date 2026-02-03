@@ -2,14 +2,24 @@
 
 \* denotes co-first authors, $\dagger$ denotes corresponding author
 
+# 2026
+
+- [Enhancing post-training quantization via future activation awareness]() **Zheqi Lv**\*, Zhenxuan Fan\*, Qi Tian, Wenqiao Zhang, Yueting Zhuang. **ICASSP 2026.**
+- [ThinkRec: Thinking-based recommendation via LLM]() Qihang Yu, Kairui Fu, **Zheqi Lv**$\dagger$, Shengyu Zhang, Xinhui Wu, Chen Lin, Feng Wei, Bo Zheng, Fei Wu. **WWW 2026.**
+- [RASTP: Representation-Aware Semantic Token Pruning for Generative Recommendation with Semantic Identifiers]() Tianyu Zhan, Kairui Fu, **Zheqi Lv**$\dagger$, Shengyu Zhang. **WWW 2026.**
+
 # 2025
 
+- [Tackling Device Data Distribution Real-time Shift via Prototype-based Parameter Editing]() **Zheqi Lv**\*, Wenqiao Zhang\*, Kairui Fu, Qi Tian, Shengyu Zhang, Jiajie Su, Jingyuan Chen, Kun Kuang, Fei Wu. **MM 2025.**
+- [Cuff-KT: Tackling Learners' Real-time Learning Pattern Adjustment via Tuning-Free Knowledge State Guided Model Updating]() Yiyun Zhou, **Zheqi Lv**\*, Shengyu Zhang, Jingyuan Chen. **KDD 2025.**
+- [Modality-Aware Diffusion Augmentation with Consistent Subspace Disentanglement for Session-based Recommendation]()  Jiajie Su, Chaochao Chen, Weiming Liu, Yuhang Wang, Yihao Wang, **Zheqi Lv**, Xiaolin Zheng, Jianwei Yin. **KDD 2025.**
+- [Device-Cloud Collaborative Correction for On-Device Recommendation]() Tianyu Zhan, Shengyu Zhang, Zheqi Lv, Jieming Zhu, Jiwei Li, Fan Wu, Fei Wu. **IJCAI 2025.**
 - [Disentangled Knowledge Tracing for Alleviating Cognitive Bias]() Yiyun Zhou, **Zheqi Lv**, Shengyu Zhang, Jingyuan Chen. **WWW 2025.**
 - [Optimize Incompatible Parameters through Compatibility-aware Knowledge Integration]() **Zheqi Lv**, Keming Ye, Zishu Wei, Qi Tian, Shengyu Zhang, Wenqiao Zhang, Wenjie Wang, Kun Kuang, Tat-Seng Chua, Fei Wu. **AAAI 2025 (Oral).**
 - [Preliminary evaluation of the Test-Time Training layers in recommendation system]() Tianyu Zhan, **Zheqi Lv**, Shengyu Zhang, Jiwei Li. **AAAI Student Abstract 2025.**
 - [Collaborative Large Language Models and Sequential Recommendation Models for Device-Cloud Recommendation]() **Zheqi Lv**, Tianyu Zhan, Wenjie Wang, Xinyu Lin, Shengyu Zhang, Wenqiao Zhang, Jiwei Li, Kun Kuang, Fei Wu. **KDD 2025.**
 - [Forward Once for All: Structural Parameterized Adaptation for Efficient Cloud-coordinated On-device Recommendation]() Kairui Fu, **Zheqi Lv**, Shengyu Zhang, Fan Wu, Kun Kuang. **KDD 2025.**
-
+- [M44TMD: A Multimodal, Multi-task Deep Learning Framework for Comprehensive Assessment of TMD-Related Abnormalities]() Xinrui Lang, Rundong Zhang, Zhouhang Yuan, **Zheqi Lv**$\dagger$, Jiawei Wang, Bo Qiao, Yanzhen Zhang, Zhengxing Huang, Fan Yang. **JOD 2025.**
 
 # 2024
 
