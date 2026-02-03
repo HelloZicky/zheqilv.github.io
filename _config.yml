@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zheqi Lv"
+title                    : "Zheqi Lv (吕喆奇)"
 #description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 description              : "Homepage"
 #repository               : "RayeRen/acad-homepage.github.io"
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zheqi Lv(吕喆奇)"
+  name             : "Zheqi Lv (吕喆奇)"
   avatar           : "images/zheqi_lv.jpg"
   bio              : # "Lorem ipsum College"
   location         : # "Beijing, China"
