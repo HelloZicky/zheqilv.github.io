@@ -1,4 +1,4 @@
-<img width="432" height="60" alt="image" src="https://github.com/user-attachments/assets/9a54eaf1-e7f3-4819-a41c-8922ddc0ed00" /><img width="432" height="102" alt="image" src="https://github.com/user-attachments/assets/1b3adfcb-a6bd-419a-8cf3-6bdb6fc2418e" /># Selected Honors Awarded
+# Selected Honors Awarded
 
 - AAAI2025 Oral Presentation (First author)
 - WWW2024 Oral Presentation (First author)
