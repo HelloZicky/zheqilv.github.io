@@ -4,6 +4,7 @@
 
 # 🎖 Selected Honors Awarded
 
+- NeurIPS2025 Top Reviewer
 - AAAI2025 Oral Presentation (First author)
 - WWW2024 Oral Presentation (First author)
 - KDD2025 Oral Presentation (Co-First author)
