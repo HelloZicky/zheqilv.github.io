@@ -10,7 +10,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">WWW 2026</div>
-      <img src='images/paper_www26_thinkrec.png' alt="ThinkRec" width="98%">
+      <img src='images/paper_www26_thinkrec.png' alt="ThinkRec" width="80%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -35,7 +35,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">KDD 2025</div>
-      <img src='images/paper_kdd25_lsc4rec.png' alt="Collaborative LLM" width="98%">
+      <img src='images/paper_kdd25_lsc4rec.png' alt="Collaborative LLM" width="80%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -61,7 +61,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">WWW 2024</div>
-      <img src='images/paper_www24_intellectreq.png' alt="Intelligent Model Update" width="98%">
+      <img src='images/paper_www24_intellectreq.png' alt="Intelligent Model Update" width="80%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -79,7 +79,7 @@
   <div class='paper-box-image'>
     <div>
       <div class="badge">WWW 2023</div>
-      <img src='images/paper_www23_duet.png' alt="DUET" width="98%">
+      <img src='images/paper_www23_duet.png' alt="DUET" width="80%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
