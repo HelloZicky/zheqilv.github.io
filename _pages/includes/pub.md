@@ -13,10 +13,10 @@
       <img src='images/paper_www26_thinkrec.png' alt="ThinkRec" width="98%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
+  
     [**WWW 2026**] [ThinkRec: Thinking-based recommendation via LLM](#) <span style="color:red">[CCF-A]</span> \\
     Qihang Yu, Kairui Fu, **Zheqi Lv**$^\dagger$, Shengyu Zhang, Xinhui Wu, Chen Lin, Feng Wei, Bo Zheng, Fei Wu
-  </div>
+  
 </div>
 
 - [RASTP: Representation-Aware Semantic Token Pruning for Generative Recommendation with Semantic Identifiers]() Tianyu Zhan, Kairui Fu, **Zheqi Lv**$^\dagger$, Shengyu Zhang. **WWW 2026.**
