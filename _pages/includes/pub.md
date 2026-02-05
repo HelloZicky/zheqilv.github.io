@@ -15,33 +15,6 @@ Qihang Yu, Kairui Fu, **Zheqi Lv**$^\dagger$, Shengyu Zhang, Xinhui Wu, Chen Lin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/paper_kdd25_lsc4rec.png' alt="sym" width="98%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**KDD 2025**] [Collaborative Large Language Models and Sequential Recommendation Models for Device-Cloud Recommendation]() <span style="color:red">[CCF-A]</span> \\
-**Zheqi Lv**, Tianyu Zhan, Wenjie Wang, Xinyu Lin, Shengyu Zhang, Wenqiao Zhang, Jiwei Li, Kun Kuang, Fei Wu
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/paper_www24_intellectreq.png' alt="sym" width="98%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**WWW 2024**] [Intelligent Model Update Strategy for Sequential Recommendation]() (Oral) <span style="color:red">[CCF-A]</span> \\
-**Zheqi Lv**, Wenqiao Zhang, Zhengyu Chen, Shengyu Zhang, Kun Kuang
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/paper_www23_duet.png' alt="sym" width="98%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**WWW 2023**] [DUET: A Tuning-Free Device-Cloud Collaborative Parameters Generation Framework for Efficient Device Model Generalization]() <span style="color:red">[CCF-A]</span> \\
-**Zheqi Lv**, Wenqiao Zhang, Shengyu Zhang, Kun Kuang, Feng Wang, Yongwei Wang, Zhengyu Chen, Tao Shen, Hongxia Yang, Beng Chin Ooi, Fei Wu
-
-</div>
-</div>
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -80,18 +53,16 @@ Qihang Yu, Kairui Fu, **Zheqi Lv**$^\dagger$, Shengyu Zhang, Xinhui Wu, Chen Lin
 - [Optimize Incompatible Parameters through Compatibility-aware Knowledge Integration]() **Zheqi Lv**, Keming Ye, Zishu Wei, Qi Tian, Shengyu Zhang, Wenqiao Zhang, Wenjie Wang, Kun Kuang, Tat-Seng Chua, Fei Wu. **AAAI 2025 (Oral).**
 - [Preliminary evaluation of the Test-Time Training layers in recommendation system]() Tianyu Zhan, **Zheqi Lv**, Shengyu Zhang, Jiwei Li. **AAAI Student Abstract 2025.**
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">KDD 2025</div>
-      <img src='images/paper_kdd25_lsc4rec.png' alt="Collaborative LLM" width="80%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [**KDD 2025**] [Collaborative Large Language Models and Sequential Recommendation Models for Device-Cloud Recommendation](#) <span style="color:red">[CCF-A]</span> \\
-    **Zheqi Lv**, Tianyu Zhan, Wenjie Wang, Xinyu Lin, Shengyu Zhang, Wenqiao Zhang, Jiwei Li, Kun Kuang, Fei Wu
-  </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/paper_kdd25_lsc4rec.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**KDD 2025**] [Collaborative Large Language Models and Sequential Recommendation Models for Device-Cloud Recommendation]() <span style="color:red">[CCF-A]</span> \\
+**Zheqi Lv**, Tianyu Zhan, Wenjie Wang, Xinyu Lin, Shengyu Zhang, Wenqiao Zhang, Jiwei Li, Kun Kuang, Fei Wu
+
 </div>
+</div>
+
 
 - [Forward Once for All: Structural Parameterized Adaptation for Efficient Cloud-coordinated On-device Recommendation]() Kairui Fu, **Zheqi Lv**, Shengyu Zhang, Fan Wu, Kun Kuang. **KDD 2025.**
 - [M44TMD: A Multimodal, Multi-task Deep Learning Framework for Comprehensive Assessment of TMD-Related Abnormalities]() Xinrui Lang, Rundong Zhang, Zhouhang Yuan, **Zheqi Lv**$^\dagger$, Jiawei Wang, Bo Qiao, Yanzhen Zhang, Zhengxing Huang, Fan Yang. **JOD 2025.**
@@ -106,17 +77,14 @@ Qihang Yu, Kairui Fu, **Zheqi Lv**$^\dagger$, Shengyu Zhang, Xinhui Wu, Chen Lin
 - [DIET: Customized Slimming for Incompatible Networks in Sequential Recommendation]() Kairui Fu, Shengyu Zhang, **Zheqi Lv**, Jingyuan Chen, Jiwei Li. **KDD 2024.**
 - [Revisiting the Domain Shift and Sample Uncertainty in Multi-source Active Domain Transfer]() Wenqiao Zhang\*, **Zheqi Lv**\*$^\dagger$. **CVPR 2024.**
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">WWW 2024</div>
-      <img src='images/paper_www24_intellectreq.png' alt="Intelligent Model Update" width="80%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [**WWW 2024**] [Intelligent Model Update Strategy for Sequential Recommendation](#) <span style="color:red">[CCF-A]</span> \\
-    **Zheqi Lv**, Wenqiao Zhang, Zhengyu Chen, Shengyu Zhang, Kun Kuang. <span style="color: red">[Oral]</span>
-  </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/paper_www24_intellectreq.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**WWW 2024**] [Intelligent Model Update Strategy for Sequential Recommendation]() (Oral) <span style="color:red">[CCF-A]</span> \\
+**Zheqi Lv**, Wenqiao Zhang, Zhengyu Chen, Shengyu Zhang, Kun Kuang
+
+</div>
 </div>
 
 - [AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation]() Zihao Tang, **Zheqi Lv**, Shengyu Zhang, Yifan Zhou, Xinyu Duan, Fei Wu, Kun Kuang. **ICLR 2024.**
@@ -124,17 +92,14 @@ Qihang Yu, Kairui Fu, **Zheqi Lv**$^\dagger$, Shengyu Zhang, Xinhui Wu, Chen Lin
 
 # 2023
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">WWW 2023</div>
-      <img src='images/paper_www23_duet.png' alt="DUET" width="80%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [**WWW 2023**] [DUET: A Tuning-Free Device-Cloud Collaborative Parameters Generation Framework for Efficient Device Model Generalization](#) <span style="color:red">[CCF-A]</span> \\
-    **Zheqi Lv**, Wenqiao Zhang, Shengyu Zhang, Kun Kuang, Feng Wang, Yongwei Wang, Zhengyu Chen, Tao Shen, Hongxia Yang, Beng Chin Ooi, Fei Wu
-  </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/paper_www23_duet.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**WWW 2023**] [DUET: A Tuning-Free Device-Cloud Collaborative Parameters Generation Framework for Efficient Device Model Generalization]() <span style="color:red">[CCF-A]</span> \\
+**Zheqi Lv**, Wenqiao Zhang, Shengyu Zhang, Kun Kuang, Feng Wang, Yongwei Wang, Zhengyu Chen, Tao Shen, Hongxia Yang, Beng Chin Ooi, Fei Wu
+
+</div>
 </div>
 
 - [Parameters Efficient Fine-Tuning for Long-Tailed Sequential Recommendation]() **Zheqi Lv**\*, Feng Wang\*, Shengyu Zhang, Kun Kuang, Hongxia Yang, Fei Wu. **CICAI 2023.**
