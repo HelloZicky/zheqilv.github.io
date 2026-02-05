@@ -6,6 +6,42 @@
 
 - [Enhancing post-training quantization via future activation awareness]() **Zheqi Lv**\*, Zhenxuan Fan\*, Qi Tian, Wenqiao Zhang, Yueting Zhuang. **ICASSP 2026.**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/paper_www26_thinkrec.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**WWW 2026**] [ThinkRec: Thinking-based recommendation via LLM]() <span style="color:red">[CCF-A]</span> \\
+Qihang Yu, Kairui Fu, **Zheqi Lv**$^\dagger$, Shengyu Zhang, Xinhui Wu, Chen Lin, Feng Wei, Bo Zheng, Fei Wu
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/paper_kdd25_lsc4rec.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**KDD 2025**] [Collaborative Large Language Models and Sequential Recommendation Models for Device-Cloud Recommendation]() <span style="color:red">[CCF-A]</span> \\
+**Zheqi Lv**, Tianyu Zhan, Wenjie Wang, Xinyu Lin, Shengyu Zhang, Wenqiao Zhang, Jiwei Li, Kun Kuang, Fei Wu
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/paper_www24_intellectreq.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**WWW 2024**] [Intelligent Model Update Strategy for Sequential Recommendation]() (Oral) <span style="color:red">[CCF-A]</span> \\
+**Zheqi Lv**, Wenqiao Zhang, Zhengyu Chen, Shengyu Zhang, Kun Kuang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/paper_www23_duet.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**WWW 2023**] [DUET: A Tuning-Free Device-Cloud Collaborative Parameters Generation Framework for Efficient Device Model Generalization]() <span style="color:red">[CCF-A]</span> \\
+**Zheqi Lv**, Wenqiao Zhang, Shengyu Zhang, Kun Kuang, Feng Wang, Yongwei Wang, Zhengyu Chen, Tao Shen, Hongxia Yang, Beng Chin Ooi, Fei Wu
+
+</div>
+</div>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
