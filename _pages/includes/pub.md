@@ -19,6 +19,19 @@
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">WWW 2026</div>
+      <img src='images/paper_www26_thinkrec.png' alt="ThinkRec" width="98%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <a href="#">[**WWW 2026**] ThinkRec: Thinking-based recommendation via LLM</a> <span style="color:red">[CCF-A]</span> <br>
+    Qihang Yu, Kairui Fu, **Zheqi Lv**$^\dagger$, Shengyu Zhang, Xinhui Wu, Chen Lin, Feng Wei, Bo Zheng, Fei Wu
+  </div>
+</div>
+
 - [RASTP: Representation-Aware Semantic Token Pruning for Generative Recommendation with Semantic Identifiers]() Tianyu Zhan, Kairui Fu, **Zheqi Lv**$^\dagger$, Shengyu Zhang. **WWW 2026.**
 
 # 2025
