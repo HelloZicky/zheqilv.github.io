@@ -11,7 +11,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/paper_icassp26.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ICASSP 2026**] [Enhancing post-training quantization via future activation awareness]() <span style="color:red">[CCF-B]</span> \\
+[**ICASSP 2026**] [Enhancing post-training quantization via future activation awareness]() <span style="color:orange">[CCF-B]</span> \\
 **Zheqi Lv**\*, Zhenxuan Fan\*, Qi Tian, Wenqiao Zhang, Yueting Zhuang
 
 [**Code**](https://github.com/HelloZicky/FAQ) &nbsp;
@@ -103,7 +103,7 @@ Kairui Fu, **Zheqi Lv**, Shengyu Zhang, Fan Wu, Kun Kuang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JOD 2025</div><img src='images/paper_jod25_m44tmd.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**JOD 2025**] [M44TMD: A Multimodal, Multi-task Deep Learning Framework for Comprehensive Assessment of TMD-Related Abnormalities]() <span style="color:red">[SCI-Q1]</span> \\
+[**JOD 2025**] [M44TMD: A Multimodal, Multi-task Deep Learning Framework for Comprehensive Assessment of TMD-Related Abnormalities]() <span style="color:yellow">[SCI-Q1 Top]</span> \\
 Xinrui Lang, Rundong Zhang, Zhouhang Yuan, **Zheqi Lv**$^\dagger$, Jiawei Wang, Bo Qiao, Yanzhen Zhang, Zhengxing Huang, Fan Yang
 
 </div>
@@ -168,7 +168,7 @@ Wenqiao Zhang\*, **Zheqi Lv**\*$^\dagger$
 </div>
 </div>
 
-- [**ICLR 2024**] [AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation]() \\
+- [**ICLR 2024**] [AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation]() <span style="color:blue">[Expanded CCF-A]</span> \\
 Zihao Tang, **Zheqi Lv**, Shengyu Zhang, Yifan Zhou, Xinyu Duan, Fei Wu, Kun Kuang
 
 - [**AAAI 2024**] [Learning to Reweight for Generalizable Graph Neural Network]() <span style="color:red">[CCF-A]</span> \\
@@ -191,10 +191,10 @@ Zhengyu Chen, Teng Xiao, Kun Kuang, **Zheqi Lv**, Min Zhang, Jinluan Yang, Cheng
 - [**CICAI 2023**] [Parameters Efficient Fine-Tuning for Long-Tailed Sequential Recommendation]() \\
 **Zheqi Lv**\*, Feng Wang\*, Shengyu Zhang, Kun Kuang, Hongxia Yang, Fei Wu
 
-- [**EMNLP 2023**] [ART: rule bAsed futuRe-inference deducTion]() <span style="color:red">[CCF-B]</span> \\
+- [**EMNLP 2023**] [ART: rule bAsed futuRe-inference deducTion]() <span style="color:orange">[CCF-B]</span> \\
 Mengze Li, Tianqi Zhao, Jionghao Bai, Baoyi He, Jiaxu Miao, Wei Ji, **Zheqi Lv**, Zhou Zhao, Shengyu Zhang, Wenqiao Zhang, Fei Wu
 
-- [**FITEE 2023**] [Federated Mutual Learning: A Collaborative Machine Learning Method for Heterogeneous Data, Models and Objectives]() \\
+- [**FITEE 2023**] [Federated Mutual Learning: A Collaborative Machine Learning Method for Heterogeneous Data, Models and Objectives]() <span style="color:green">[CCF-C]</span> \\
 Tao Shen, Jie Zhang, Xinkang Jia, Fengda Zhang, **Zheqi Lv**, Kun Kuang, Chao Wu, Fei Wu
 
 # 2022 and prior
