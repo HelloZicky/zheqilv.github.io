@@ -120,7 +120,7 @@ Wei Ji\*, Li Li\*, **Zheqi Lv**\*$^\dagger$, Wenqiao Zhang, Mengze Li, Zhen Wan,
 </div>
 </div>
 
-- [**FITEE 2024**] [FedMcon: An Adaptive Aggregation Method for Federated Learning via Meta Controller]() \\
+- [**FITEE 2024**] [FedMcon: An Adaptive Aggregation Method for Federated Learning via Meta Controller]() <span style="color:green">[CCF-C]</span> \\
 Tao Shen, Zexi Li, Ziyu Zhao, Didi Zhu, **Zheqi Lv**, Shengyu Zhang, Kun Kuang, Fei Wu
 
 - [**MM Asia Workshop 2024**] [An Adaptive Aggregation Method for Federated Learning via Meta Controller]() \\
