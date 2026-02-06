@@ -65,7 +65,7 @@ Yiyun Zhou, **Zheqi Lv**\*, Shengyu Zhang, Jingyuan Chen
 Jiajie Su, Chaochao Chen, Weiming Liu, Yuhang Wang, Yihao Wang, **Zheqi Lv**, Xiaolin Zheng, Jianwei Yin
 
 - [**IJCAI 2025**] [Device-Cloud Collaborative Correction for On-Device Recommendation]() <span style="color:red">[CCF-A]</span> \\
-Tianyu Zhan, Shengyu Zhang, Zheqi Lv, Jieming Zhu, Jiwei Li, Fan Wu, Fei Wu
+Tianyu Zhan, Shengyu Zhang, **Zheqi Lv**$^\dagger$, Jieming Zhu, Jiwei Li, Fan Wu, Fei Wu
 
 - [**WWW 2025**] [Disentangled Knowledge Tracing for Alleviating Cognitive Bias]() <span style="color:red">[CCF-A]</span> \\
 Yiyun Zhou, **Zheqi Lv**, Shengyu Zhang, Jingyuan Chen
@@ -103,7 +103,7 @@ Kairui Fu, **Zheqi Lv**, Shengyu Zhang, Fan Wu, Kun Kuang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JOD 2025</div><img src='images/paper_jod25_m44tmd.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**JOD 2025**] [M44TMD: A Multimodal, Multi-task Deep Learning Framework for Comprehensive Assessment of TMD-Related Abnormalities]() <span style="color:yellow">[SCI-Q1 Top]</span> \\
+[**JOD 2025**] [M44TMD: A Multimodal, Multi-task Deep Learning Framework for Comprehensive Assessment of TMD-Related Abnormalities]() <span style="color:purple">[SCI-Q1 Top]</span> \\
 Xinrui Lang, Rundong Zhang, Zhouhang Yuan, **Zheqi Lv**$^\dagger$, Jiawei Wang, Bo Qiao, Yanzhen Zhang, Zhengxing Huang, Fan Yang
 
 </div>
