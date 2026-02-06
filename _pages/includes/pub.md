@@ -18,8 +18,6 @@
 [**ICASSP 2026**] [Enhancing post-training quantization via future activation awareness]() <span style="color:orange">[CCF-B]</span> \\
 **Zheqi Lv**\*, Zhenxuan Fan\*, Qi Tian, Wenqiao Zhang, Yueting Zhuang
 
-[**Code**](https://github.com/HelloZicky/FAQ) &nbsp;
-[![](https://img.shields.io/github/stars/HelloZicky/FAQ?style=social&label=Code+Stars)](https://github.com/HelloZicky/FAQ)
 
 </div>
 </div>
@@ -50,9 +48,6 @@ Tianyu Zhan, Kairui Fu, **Zheqi Lv**$^\dagger$, Shengyu Zhang
 [**MM 2025**] [Tackling Device Data Distribution Real-time Shift via Prototype-based Parameter Editing]() <span style="color:red">[CCF-A]</span> \\
 **Zheqi Lv**\*, Wenqiao Zhang\*, Kairui Fu, Qi Tian, Shengyu Zhang, Jiajie Su, Jingyuan Chen, Kun Kuang, Fei Wu
 
-[**Code**](https://github.com/HelloZicky/Persona) &nbsp;
-[![](https://img.shields.io/github/stars/HelloZicky/Persona?style=social&label=Code+Stars)](https://github.com/HelloZicky/Persona)
-
 </div>
 </div>
 
@@ -80,9 +75,6 @@ Yiyun Zhou, **Zheqi Lv**, Shengyu Zhang, Jingyuan Chen
 [**AAAI 2025**] [Optimize Incompatible Parameters through Compatibility-aware Knowledge Integration]() (Oral) <span style="color:red">[CCF-A]</span> \\
 **Zheqi Lv**, Keming Ye, Zishu Wei, Qi Tian, Shengyu Zhang, Wenqiao Zhang, Wenjie Wang, Kun Kuang, Tat-Seng Chua, Fei Wu
 
-[**Code**](https://github.com/HelloZicky/CKI) &nbsp;
-[![](https://img.shields.io/github/stars/HelloZicky/CKI?style=social&label=Code+Stars)](https://github.com/HelloZicky/CKI)
-
 </div>
 </div>
 
@@ -95,8 +87,6 @@ Tianyu Zhan, **Zheqi Lv**, Shengyu Zhang, Jiwei Li
 [**KDD 2025**] [Collaborative Large Language Models and Sequential Recommendation Models for Device-Cloud Recommendation]() <span style="color:red">[CCF-A]</span> \\
 **Zheqi Lv**, Tianyu Zhan, Wenjie Wang, Xinyu Lin, Shengyu Zhang, Wenqiao Zhang, Jiwei Li, Kun Kuang, Fei Wu
 
-[**Code**](https://github.com/HelloZicky/LSC4Rec) &nbsp;
-[![](https://img.shields.io/github/stars/HelloZicky/LSC4Rec?style=social&label=Code+Stars)](https://github.com/HelloZicky/LSC4Rec)
 
 </div>
 </div>
@@ -136,9 +126,6 @@ Tao Shen, Zexi Li, Ziyu Zhao, Didi Zhu, **Zheqi Lv**, Shengyu Zhang, Kun Kuang, 
 [**MM 2024**] [Semantic Codebook Learning for Dynamic Recommendation Models]() <span style="color:red">[CCF-A]</span> \\
 **Zheqi Lv**, Shaoxuan He, Tianyu Zhan, Shengyu Zhang, Wenqiao Zhang, Jingyuan Chen, Zhou Zhao, Fei Wu
 
-[**Code**](https://github.com/HelloZicky/SOLID) &nbsp;
-[![](https://img.shields.io/github/stars/HelloZicky/SOLID?style=social&label=Code+Stars)](https://github.com/HelloZicky/SOLID)
-
 </div>
 </div>
 
@@ -154,8 +141,6 @@ Kairui Fu, Shengyu Zhang, **Zheqi Lv**, Jingyuan Chen, Jiwei Li
 [**CVPR 2024**] [Revisiting the Domain Shift and Sample Uncertainty in Multi-source Active Domain Transfer]() <span style="color:red">[CCF-A]</span> \\
 Wenqiao Zhang\*, **Zheqi Lv**\*$^\dagger$
 
-[**Code**](https://github.com/HelloZicky/Detective-A-Dynamic-Integrated-Uncertainty-Valuation-Framework) &nbsp;
-[![](https://img.shields.io/github/stars/HelloZicky/Detective-A-Dynamic-Integrated-Uncertainty-Valuation-Framework?style=social&label=Code+Stars)](https://github.com/HelloZicky/Detective-A-Dynamic-Integrated-Uncertainty-Valuation-Framework)
 
 </div>
 </div>
@@ -166,8 +151,6 @@ Wenqiao Zhang\*, **Zheqi Lv**\*$^\dagger$
 [**WWW 2024**] [Intelligent Model Update Strategy for Sequential Recommendation]() (Oral) <span style="color:red">[CCF-A]</span> \\
 **Zheqi Lv**, Wenqiao Zhang, Zhengyu Chen, Shengyu Zhang, Kun Kuang
 
-[**Code**](https://github.com/HelloZicky/IntellectReq) &nbsp;
-[![](https://img.shields.io/github/stars/HelloZicky/IntellectReq?style=social&label=Code+Stars)](https://github.com/HelloZicky/IntellectReq)
 
 </div>
 </div>
@@ -186,8 +169,6 @@ Zhengyu Chen, Teng Xiao, Kun Kuang, **Zheqi Lv**, Min Zhang, Jinluan Yang, Cheng
 [**WWW 2023**] [DUET: A Tuning-Free Device-Cloud Collaborative Parameters Generation Framework for Efficient Device Model Generalization]() <span style="color:red">[CCF-A]</span> \\
 **Zheqi Lv**, Wenqiao Zhang, Shengyu Zhang, Kun Kuang, Feng Wang, Yongwei Wang, Zhengyu Chen, Tao Shen, Hongxia Yang, Beng Chin Ooi, Fei Wu
 
-[**Code**](https://github.com/HelloZicky/DUET) &nbsp;
-[![](https://img.shields.io/github/stars/HelloZicky/DUET?style=social&label=Code+Stars)](https://github.com/HelloZicky/DUET)
 
 </div>
 </div>
